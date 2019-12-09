@@ -1,4 +1,5 @@
 const shell = require("shelljs");
+shell.exec("mkdir reports");
 for (i = 1; i < 4548; i++) {
     console.log("Mutante "+i+" iniciando.")
     shell.exec("calabash-android resign ../apks/com.evancharlton.mileage-mutant"+i+"/com.evancharlton.mileage_3110-aligned-debugSigned.apk")
