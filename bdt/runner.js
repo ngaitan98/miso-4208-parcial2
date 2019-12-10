@@ -1,5 +1,7 @@
 const shell = require("shelljs");
-for (i = 1; i < 4548; i++) {
+shell.exec("mkdir reports")
+for (i = 173; i < 4548; i++) {
+    shell.exec("adb shell recovery --wipe_data");
     console.log("Mutante "+i+" iniciando.")
     shell.exec("calabash-android resign ../apks/com.evancharlton.mileage-mutant"+i+"/com.evancharlton.mileage_3110-aligned-debugSigned.apk")
     shell.exec("adb uninstall com.evancharlton.mileage")
