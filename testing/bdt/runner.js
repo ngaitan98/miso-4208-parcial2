@@ -1,6 +1,6 @@
 const shell = require("shelljs");
 shell.exec("mkdir reports")
-for (i = 224; i < 4548; i++) {
+for (i = 309; i < 4548; i++) {
     shell.exec("adb shell recovery --wipe_data");
     shell.exec("adb reboot bootloader")
     console.log("Mutante " + i + " iniciando.")

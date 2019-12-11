@@ -1,1 +1,1852 @@
-{"mutantes":[{"num":1,"detectado":true,"compila":false,"bdtReport":"https://mutantes.s3.amazonaws.com/report1/bdt/report.html"},{"num":2,"detectado":true,"compila":false,"bdtReport":"https://mutantes.s3.amazonaws.com/report2/bdt/report.html"},{"num":3,"detectado":true,"compila":false,"bdtReport":"https://mutantes.s3.amazonaws.com/report3/bdt/report.html"},{"num":4,"detectado":true,"compila":false,"bdtReport":"https://mutantes.s3.amazonaws.com/report4/bdt/report.html"},{"num":5,"detectado":true,"compila":false,"bdtReport":"https://mutantes.s3.amazonaws.com/report5/bdt/report.html"},{"num":6,"detectado":true,"compila":true,"bdtReport":"https://mutantes.s3.amazonaws.com/report6/bdt/report.html"},{"num":7,"detectado":true,"compila":true,"bdtReport":"https://mutantes.s3.amazonaws.com/report7/bdt/report.html"},{"num":8,"detectado":false,"compila":false,"bdtReport":"https://mutantes.s3.amazonaws.com/report8/bdt/report.html"},{"num":9,"detectado":false,"compila":false,"bdtReport":"https://mutantes.s3.amazonaws.com/report9/bdt/report.html"},{"num":10,"detectado":false,"compila":false,"bdtReport":"https://mutantes.s3.amazonaws.com/report10/bdt/report.html"}]}
+{
+    "mutantes": [
+        {
+            "num": 1,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report1/bdt/report.html"
+        },
+        {
+            "num": 2,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report2/bdt/report.html"
+        },
+        {
+            "num": 3,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report3/bdt/report.html"
+        },
+        {
+            "num": 4,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report4/bdt/report.html"
+        },
+        {
+            "num": 5,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report5/bdt/report.html"
+        },
+        {
+            "num": 6,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report6/bdt/report.html"
+        },
+        {
+            "num": 7,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report7/bdt/report.html"
+        },
+        {
+            "num": 8,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report8/bdt/report.html"
+        },
+        {
+            "num": 9,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report9/bdt/report.html"
+        },
+        {
+            "num": 10,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report10/bdt/report.html"
+        },
+        {
+            "num": 11,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report11/bdt/report.html"
+        },
+        {
+            "num": 12,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report12/bdt/report.html"
+        },
+        {
+            "num": 13,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report13/bdt/report.html"
+        },
+        {
+            "num": 14,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report14/bdt/report.html"
+        },
+        {
+            "num": 15,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report15/bdt/report.html"
+        },
+        {
+            "num": 16,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report16/bdt/report.html"
+        },
+        {
+            "num": 17,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report17/bdt/report.html"
+        },
+        {
+            "num": 18,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report18/bdt/report.html"
+        },
+        {
+            "num": 19,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report19/bdt/report.html"
+        },
+        {
+            "num": 20,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report20/bdt/report.html"
+        },
+        {
+            "num": 21,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report21/bdt/report.html"
+        },
+        {
+            "num": 22,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report22/bdt/report.html"
+        },
+        {
+            "num": 23,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report23/bdt/report.html"
+        },
+        {
+            "num": 24,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report24/bdt/report.html"
+        },
+        {
+            "num": 25,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report25/bdt/report.html"
+        },
+        {
+            "num": 26,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report26/bdt/report.html"
+        },
+        {
+            "num": 27,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report27/bdt/report.html"
+        },
+        {
+            "num": 28,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report28/bdt/report.html"
+        },
+        {
+            "num": 29,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report29/bdt/report.html"
+        },
+        {
+            "num": 30,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report30/bdt/report.html"
+        },
+        {
+            "num": 31,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report31/bdt/report.html"
+        },
+        {
+            "num": 32,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report32/bdt/report.html"
+        },
+        {
+            "num": 33,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report33/bdt/report.html"
+        },
+        {
+            "num": 34,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report34/bdt/report.html"
+        },
+        {
+            "num": 35,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report35/bdt/report.html"
+        },
+        {
+            "num": 36,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report36/bdt/report.html"
+        },
+        {
+            "num": 37,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report37/bdt/report.html"
+        },
+        {
+            "num": 38,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report38/bdt/report.html"
+        },
+        {
+            "num": 39,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report39/bdt/report.html"
+        },
+        {
+            "num": 40,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report40/bdt/report.html"
+        },
+        {
+            "num": 41,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report41/bdt/report.html"
+        },
+        {
+            "num": 42,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report42/bdt/report.html"
+        },
+        {
+            "num": 43,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report43/bdt/report.html"
+        },
+        {
+            "num": 44,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report44/bdt/report.html"
+        },
+        {
+            "num": 45,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report45/bdt/report.html"
+        },
+        {
+            "num": 46,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report46/bdt/report.html"
+        },
+        {
+            "num": 47,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report47/bdt/report.html"
+        },
+        {
+            "num": 48,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report48/bdt/report.html"
+        },
+        {
+            "num": 49,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report49/bdt/report.html"
+        },
+        {
+            "num": 50,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report50/bdt/report.html"
+        },
+        {
+            "num": 51,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report51/bdt/report.html"
+        },
+        {
+            "num": 52,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report52/bdt/report.html"
+        },
+        {
+            "num": 53,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report53/bdt/report.html"
+        },
+        {
+            "num": 54,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report54/bdt/report.html"
+        },
+        {
+            "num": 55,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report55/bdt/report.html"
+        },
+        {
+            "num": 56,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report56/bdt/report.html"
+        },
+        {
+            "num": 57,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report57/bdt/report.html"
+        },
+        {
+            "num": 58,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report58/bdt/report.html"
+        },
+        {
+            "num": 59,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report59/bdt/report.html"
+        },
+        {
+            "num": 60,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report60/bdt/report.html"
+        },
+        {
+            "num": 61,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report61/bdt/report.html"
+        },
+        {
+            "num": 62,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report62/bdt/report.html"
+        },
+        {
+            "num": 63,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report63/bdt/report.html"
+        },
+        {
+            "num": 64,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report64/bdt/report.html"
+        },
+        {
+            "num": 65,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report65/bdt/report.html"
+        },
+        {
+            "num": 66,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report66/bdt/report.html"
+        },
+        {
+            "num": 67,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report67/bdt/report.html"
+        },
+        {
+            "num": 68,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report68/bdt/report.html"
+        },
+        {
+            "num": 69,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report69/bdt/report.html"
+        },
+        {
+            "num": 70,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report70/bdt/report.html"
+        },
+        {
+            "num": 71,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report71/bdt/report.html"
+        },
+        {
+            "num": 72,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report72/bdt/report.html"
+        },
+        {
+            "num": 73,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report73/bdt/report.html"
+        },
+        {
+            "num": 74,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report74/bdt/report.html"
+        },
+        {
+            "num": 75,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report75/bdt/report.html"
+        },
+        {
+            "num": 76,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report76/bdt/report.html"
+        },
+        {
+            "num": 77,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report77/bdt/report.html"
+        },
+        {
+            "num": 78,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report78/bdt/report.html"
+        },
+        {
+            "num": 79,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report79/bdt/report.html"
+        },
+        {
+            "num": 80,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report80/bdt/report.html"
+        },
+        {
+            "num": 81,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report81/bdt/report.html"
+        },
+        {
+            "num": 82,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report82/bdt/report.html"
+        },
+        {
+            "num": 83,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report83/bdt/report.html"
+        },
+        {
+            "num": 84,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report84/bdt/report.html"
+        },
+        {
+            "num": 85,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report85/bdt/report.html"
+        },
+        {
+            "num": 86,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report86/bdt/report.html"
+        },
+        {
+            "num": 87,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report87/bdt/report.html"
+        },
+        {
+            "num": 88,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report88/bdt/report.html"
+        },
+        {
+            "num": 89,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report89/bdt/report.html"
+        },
+        {
+            "num": 90,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report90/bdt/report.html"
+        },
+        {
+            "num": 91,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report91/bdt/report.html"
+        },
+        {
+            "num": 92,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report92/bdt/report.html"
+        },
+        {
+            "num": 93,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report93/bdt/report.html"
+        },
+        {
+            "num": 94,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report94/bdt/report.html"
+        },
+        {
+            "num": 95,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report95/bdt/report.html"
+        },
+        {
+            "num": 96,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report96/bdt/report.html"
+        },
+        {
+            "num": 97,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report97/bdt/report.html"
+        },
+        {
+            "num": 98,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report98/bdt/report.html"
+        },
+        {
+            "num": 99,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report99/bdt/report.html"
+        },
+        {
+            "num": 100,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report100/bdt/report.html"
+        },
+        {
+            "num": 101,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report101/bdt/report.html"
+        },
+        {
+            "num": 102,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report102/bdt/report.html"
+        },
+        {
+            "num": 103,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report103/bdt/report.html"
+        },
+        {
+            "num": 104,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report104/bdt/report.html"
+        },
+        {
+            "num": 105,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report105/bdt/report.html"
+        },
+        {
+            "num": 106,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report106/bdt/report.html"
+        },
+        {
+            "num": 107,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report107/bdt/report.html"
+        },
+        {
+            "num": 108,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report108/bdt/report.html"
+        },
+        {
+            "num": 109,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report109/bdt/report.html"
+        },
+        {
+            "num": 110,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report110/bdt/report.html"
+        },
+        {
+            "num": 111,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report111/bdt/report.html"
+        },
+        {
+            "num": 112,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report112/bdt/report.html"
+        },
+        {
+            "num": 113,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report113/bdt/report.html"
+        },
+        {
+            "num": 114,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report114/bdt/report.html"
+        },
+        {
+            "num": 115,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report115/bdt/report.html"
+        },
+        {
+            "num": 116,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report116/bdt/report.html"
+        },
+        {
+            "num": 117,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report117/bdt/report.html"
+        },
+        {
+            "num": 118,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report118/bdt/report.html"
+        },
+        {
+            "num": 119,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report119/bdt/report.html"
+        },
+        {
+            "num": 120,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report120/bdt/report.html"
+        },
+        {
+            "num": 121,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report121/bdt/report.html"
+        },
+        {
+            "num": 122,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report122/bdt/report.html"
+        },
+        {
+            "num": 123,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report123/bdt/report.html"
+        },
+        {
+            "num": 124,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report124/bdt/report.html"
+        },
+        {
+            "num": 125,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report125/bdt/report.html"
+        },
+        {
+            "num": 126,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report126/bdt/report.html"
+        },
+        {
+            "num": 127,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report127/bdt/report.html"
+        },
+        {
+            "num": 128,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report128/bdt/report.html"
+        },
+        {
+            "num": 129,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report129/bdt/report.html"
+        },
+        {
+            "num": 130,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report130/bdt/report.html"
+        },
+        {
+            "num": 131,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report131/bdt/report.html"
+        },
+        {
+            "num": 132,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report132/bdt/report.html"
+        },
+        {
+            "num": 133,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report133/bdt/report.html"
+        },
+        {
+            "num": 134,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report134/bdt/report.html"
+        },
+        {
+            "num": 135,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report135/bdt/report.html"
+        },
+        {
+            "num": 136,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report136/bdt/report.html"
+        },
+        {
+            "num": 137,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report137/bdt/report.html"
+        },
+        {
+            "num": 138,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report138/bdt/report.html"
+        },
+        {
+            "num": 139,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report139/bdt/report.html"
+        },
+        {
+            "num": 140,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report140/bdt/report.html"
+        },
+        {
+            "num": 141,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report141/bdt/report.html"
+        },
+        {
+            "num": 142,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report142/bdt/report.html"
+        },
+        {
+            "num": 143,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report143/bdt/report.html"
+        },
+        {
+            "num": 144,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report144/bdt/report.html"
+        },
+        {
+            "num": 145,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report145/bdt/report.html"
+        },
+        {
+            "num": 146,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report146/bdt/report.html"
+        },
+        {
+            "num": 147,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report147/bdt/report.html"
+        },
+        {
+            "num": 148,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report148/bdt/report.html"
+        },
+        {
+            "num": 149,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report149/bdt/report.html"
+        },
+        {
+            "num": 150,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report150/bdt/report.html"
+        },
+        {
+            "num": 151,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report151/bdt/report.html"
+        },
+        {
+            "num": 152,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report152/bdt/report.html"
+        },
+        {
+            "num": 153,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report153/bdt/report.html"
+        },
+        {
+            "num": 154,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report154/bdt/report.html"
+        },
+        {
+            "num": 155,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report155/bdt/report.html"
+        },
+        {
+            "num": 156,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report156/bdt/report.html"
+        },
+        {
+            "num": 157,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report157/bdt/report.html"
+        },
+        {
+            "num": 158,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report158/bdt/report.html"
+        },
+        {
+            "num": 159,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report159/bdt/report.html"
+        },
+        {
+            "num": 160,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report160/bdt/report.html"
+        },
+        {
+            "num": 161,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report161/bdt/report.html"
+        },
+        {
+            "num": 162,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report162/bdt/report.html"
+        },
+        {
+            "num": 163,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report163/bdt/report.html"
+        },
+        {
+            "num": 164,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report164/bdt/report.html"
+        },
+        {
+            "num": 165,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report165/bdt/report.html"
+        },
+        {
+            "num": 166,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report166/bdt/report.html"
+        },
+        {
+            "num": 167,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report167/bdt/report.html"
+        },
+        {
+            "num": 168,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report168/bdt/report.html"
+        },
+        {
+            "num": 169,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report169/bdt/report.html"
+        },
+        {
+            "num": 170,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report170/bdt/report.html"
+        },
+        {
+            "num": 171,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report171/bdt/report.html"
+        },
+        {
+            "num": 172,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report172/bdt/report.html"
+        },
+        {
+            "num": 173,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report173/bdt/report.html"
+        },
+        {
+            "num": 174,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report174/bdt/report.html"
+        },
+        {
+            "num": 175,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report175/bdt/report.html"
+        },
+        {
+            "num": 176,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report176/bdt/report.html"
+        },
+        {
+            "num": 177,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report177/bdt/report.html"
+        },
+        {
+            "num": 178,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report178/bdt/report.html"
+        },
+        {
+            "num": 179,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report179/bdt/report.html"
+        },
+        {
+            "num": 180,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report180/bdt/report.html"
+        },
+        {
+            "num": 181,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report181/bdt/report.html"
+        },
+        {
+            "num": 182,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report182/bdt/report.html"
+        },
+        {
+            "num": 183,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report183/bdt/report.html"
+        },
+        {
+            "num": 184,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report184/bdt/report.html"
+        },
+        {
+            "num": 185,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report185/bdt/report.html"
+        },
+        {
+            "num": 186,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report186/bdt/report.html"
+        },
+        {
+            "num": 187,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report187/bdt/report.html"
+        },
+        {
+            "num": 188,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report188/bdt/report.html"
+        },
+        {
+            "num": 189,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report189/bdt/report.html"
+        },
+        {
+            "num": 190,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report190/bdt/report.html"
+        },
+        {
+            "num": 191,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report191/bdt/report.html"
+        },
+        {
+            "num": 192,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report192/bdt/report.html"
+        },
+        {
+            "num": 193,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report193/bdt/report.html"
+        },
+        {
+            "num": 194,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report194/bdt/report.html"
+        },
+        {
+            "num": 195,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report195/bdt/report.html"
+        },
+        {
+            "num": 196,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report196/bdt/report.html"
+        },
+        {
+            "num": 197,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report197/bdt/report.html"
+        },
+        {
+            "num": 198,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report198/bdt/report.html"
+        },
+        {
+            "num": 199,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report199/bdt/report.html"
+        },
+        {
+            "num": 200,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report200/bdt/report.html"
+        },
+        {
+            "num": 201,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report201/bdt/report.html"
+        },
+        {
+            "num": 202,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report202/bdt/report.html"
+        },
+        {
+            "num": 203,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report203/bdt/report.html"
+        },
+        {
+            "num": 204,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report204/bdt/report.html"
+        },
+        {
+            "num": 205,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report205/bdt/report.html"
+        },
+        {
+            "num": 206,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report206/bdt/report.html"
+        },
+        {
+            "num": 207,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report207/bdt/report.html"
+        },
+        {
+            "num": 208,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report208/bdt/report.html"
+        },
+        {
+            "num": 209,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report209/bdt/report.html"
+        },
+        {
+            "num": 210,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report210/bdt/report.html"
+        },
+        {
+            "num": 211,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report211/bdt/report.html"
+        },
+        {
+            "num": 212,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report212/bdt/report.html"
+        },
+        {
+            "num": 213,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report213/bdt/report.html"
+        },
+        {
+            "num": 214,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report214/bdt/report.html"
+        },
+        {
+            "num": 215,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report215/bdt/report.html"
+        },
+        {
+            "num": 216,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report216/bdt/report.html"
+        },
+        {
+            "num": 217,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report217/bdt/report.html"
+        },
+        {
+            "num": 218,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report218/bdt/report.html"
+        },
+        {
+            "num": 219,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report219/bdt/report.html"
+        },
+        {
+            "num": 220,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report220/bdt/report.html"
+        },
+        {
+            "num": 221,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report221/bdt/report.html"
+        },
+        {
+            "num": 222,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report222/bdt/report.html"
+        },
+        {
+            "num": 223,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report223/bdt/report.html"
+        },
+        {
+            "num": 224,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report224/bdt/report.html"
+        },
+        {
+            "num": 225,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report225/bdt/report.html"
+        },
+        {
+            "num": 226,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report226/bdt/report.html"
+        },
+        {
+            "num": 227,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report227/bdt/report.html"
+        },
+        {
+            "num": 228,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report228/bdt/report.html"
+        },
+        {
+            "num": 229,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report229/bdt/report.html"
+        },
+        {
+            "num": 230,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report230/bdt/report.html"
+        },
+        {
+            "num": 231,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report231/bdt/report.html"
+        },
+        {
+            "num": 232,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report232/bdt/report.html"
+        },
+        {
+            "num": 233,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report233/bdt/report.html"
+        },
+        {
+            "num": 234,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report234/bdt/report.html"
+        },
+        {
+            "num": 235,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report235/bdt/report.html"
+        },
+        {
+            "num": 236,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report236/bdt/report.html"
+        },
+        {
+            "num": 237,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report237/bdt/report.html"
+        },
+        {
+            "num": 238,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report238/bdt/report.html"
+        },
+        {
+            "num": 239,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report239/bdt/report.html"
+        },
+        {
+            "num": 240,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report240/bdt/report.html"
+        },
+        {
+            "num": 241,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report241/bdt/report.html"
+        },
+        {
+            "num": 242,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report242/bdt/report.html"
+        },
+        {
+            "num": 243,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report243/bdt/report.html"
+        },
+        {
+            "num": 244,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report244/bdt/report.html"
+        },
+        {
+            "num": 245,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report245/bdt/report.html"
+        },
+        {
+            "num": 246,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report246/bdt/report.html"
+        },
+        {
+            "num": 247,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report247/bdt/report.html"
+        },
+        {
+            "num": 248,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report248/bdt/report.html"
+        },
+        {
+            "num": 249,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report249/bdt/report.html"
+        },
+        {
+            "num": 250,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report250/bdt/report.html"
+        },
+        {
+            "num": 251,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report251/bdt/report.html"
+        },
+        {
+            "num": 252,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report252/bdt/report.html"
+        },
+        {
+            "num": 253,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report253/bdt/report.html"
+        },
+        {
+            "num": 254,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report254/bdt/report.html"
+        },
+        {
+            "num": 255,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report255/bdt/report.html"
+        },
+        {
+            "num": 256,
+            "detectado": true,
+            "compila": false,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report256/bdt/report.html"
+        },
+        {
+            "num": 257,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report257/bdt/report.html"
+        },
+        {
+            "num": 258,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report258/bdt/report.html"
+        },
+        {
+            "num": 259,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report259/bdt/report.html"
+        },
+        {
+            "num": 260,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report260/bdt/report.html"
+        },
+        {
+            "num": 261,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report261/bdt/report.html"
+        },
+        {
+            "num": 262,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report262/bdt/report.html"
+        },
+        {
+            "num": 263,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report263/bdt/report.html"
+        },
+        {
+            "num": 264,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report264/bdt/report.html"
+        },
+        {
+            "num": 265,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report265/bdt/report.html"
+        },
+        {
+            "num": 266,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report266/bdt/report.html"
+        },
+        {
+            "num": 267,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report267/bdt/report.html"
+        },
+        {
+            "num": 268,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report268/bdt/report.html"
+        },
+        {
+            "num": 269,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report269/bdt/report.html"
+        },
+        {
+            "num": 270,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report270/bdt/report.html"
+        },
+        {
+            "num": 271,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report271/bdt/report.html"
+        },
+        {
+            "num": 272,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report272/bdt/report.html"
+        },
+        {
+            "num": 273,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report273/bdt/report.html"
+        },
+        {
+            "num": 274,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report274/bdt/report.html"
+        },
+        {
+            "num": 275,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report275/bdt/report.html"
+        },
+        {
+            "num": 276,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report276/bdt/report.html"
+        },
+        {
+            "num": 277,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report277/bdt/report.html"
+        },
+        {
+            "num": 278,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report278/bdt/report.html"
+        },
+        {
+            "num": 279,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report279/bdt/report.html"
+        },
+        {
+            "num": 280,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report280/bdt/report.html"
+        },
+        {
+            "num": 281,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report281/bdt/report.html"
+        },
+        {
+            "num": 282,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report282/bdt/report.html"
+        },
+        {
+            "num": 283,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report283/bdt/report.html"
+        },
+        {
+            "num": 284,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report284/bdt/report.html"
+        },
+        {
+            "num": 285,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report285/bdt/report.html"
+        },
+        {
+            "num": 286,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report286/bdt/report.html"
+        },
+        {
+            "num": 287,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report287/bdt/report.html"
+        },
+        {
+            "num": 288,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report288/bdt/report.html"
+        },
+        {
+            "num": 289,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report289/bdt/report.html"
+        },
+        {
+            "num": 290,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report290/bdt/report.html"
+        },
+        {
+            "num": 291,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report291/bdt/report.html"
+        },
+        {
+            "num": 292,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report292/bdt/report.html"
+        },
+        {
+            "num": 293,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report293/bdt/report.html"
+        },
+        {
+            "num": 294,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report294/bdt/report.html"
+        },
+        {
+            "num": 295,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report295/bdt/report.html"
+        },
+        {
+            "num": 296,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report296/bdt/report.html"
+        },
+        {
+            "num": 297,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report297/bdt/report.html"
+        },
+        {
+            "num": 298,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report298/bdt/report.html"
+        },
+        {
+            "num": 299,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report299/bdt/report.html"
+        },
+        {
+            "num": 300,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report300/bdt/report.html"
+        },
+        {
+            "num": 301,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report301/bdt/report.html"
+        },
+        {
+            "num": 302,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report302/bdt/report.html"
+        },
+        {
+            "num": 303,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report303/bdt/report.html"
+        },
+        {
+            "num": 304,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report304/bdt/report.html"
+        },
+        {
+            "num": 305,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report305/bdt/report.html"
+        },
+        {
+            "num": 306,
+            "detectado": false,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report306/bdt/report.html"
+        },
+        {
+            "num": 307,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report307/bdt/report.html"
+        },
+        {
+            "num": 308,
+            "detectado": true,
+            "compila": true,
+            "bdtReport": "https://mutantes.s3.amazonaws.com/report308/bdt/report.html"
+        }
+    ]
+}
