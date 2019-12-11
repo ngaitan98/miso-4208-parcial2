@@ -1,4 +1,4 @@
-/bdt/node_modules
-/bdt/test_servers
-/apks
-com.evancharlton.mileage.apk
+/testing/bdt/node_modules
+/testing/bdt/test_servers
+/testing/apks
+/testing/com.evancharlton.mileage.apk
